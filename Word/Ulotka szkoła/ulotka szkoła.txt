@@ -1,5 +1,0 @@
-1. Informacje o szkole (patron,adres,data powstania,pełna nazwa)
-2. Informacje o Kierunkach
-3. Zasady Rekrutacje (Co,Gdzie Dokumenty trzeba zlożyć)
-4. Co w szkole można robić po szkole (zajęcia dodatkowe)
-5. Ciekawostka
