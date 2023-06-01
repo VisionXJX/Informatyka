@@ -1,4 +1,4 @@
-print ("To jest program liczacy BMI dla czalej rodziny")
+print ("To jest program liczacy BMI dla calej rodziny")
 
 I1 = input("Podaj swoje Imie: ")
 G1 = int(input("Podaj swoja Wage: "))
